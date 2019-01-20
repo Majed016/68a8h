@@ -1,0 +1,6 @@
+owner=386914229422129152
+prefix=!
+game=Aim|Shoot
+stayinchannel=true
+songinstatus=false
+token=NTM2NTIxNDg1MDg3NjcwMjcy.DyX6dw.3tZ4pcprjvSCwzg1RgfoQWWT3k0
